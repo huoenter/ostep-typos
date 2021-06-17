@@ -1,0 +1,4 @@
+In "Aside" 2nd paragraph:
+"using such a protocol does not a reliable file transfer make" => "using such a protocol does not make a reliable file transfer"
+
+Chen Huo (Shippensburg)
